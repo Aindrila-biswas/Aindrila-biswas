@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Copperplate&weight=300&size=31&pause=1000&color=800080&background=87CEEB&center=true&random=false&width=435&lines=HELLO+EVERYONE!+;I+AM+AINDRILA+;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Copperplate&weight=300&size=31&pause=1000&color=FFFFFF&background=0047AB&center=true&random=false&width=435&lines=HELLO+EVERYONE!+;I+AM+AINDRILA+;WELCOME+TO+MY+PROFILE" alt="Typing SVG" /></a>
 
 
 <h1 align="center">Hello👋, I'm Aindrila Biswas</h1>
